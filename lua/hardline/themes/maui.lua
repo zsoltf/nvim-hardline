@@ -113,9 +113,9 @@ return {
     },
     current_modified = {
         guifg = colors.base00.gui,
-        guibg = colors.base0E.gui,
+        guibg = colors.base08.gui,
       ctermfg = colors.base00.cterm,
-      ctermbg = colors.base0E.cterm,
+      ctermbg = colors.base08.cterm,
     },
     background = {
         guifg = colors.base04.gui,
@@ -124,9 +124,9 @@ return {
       ctermbg = colors.base01.cterm,
     },
     background_modified = {
-        guifg = colors.base0E.gui,
+        guifg = colors.base08.gui,
         guibg = colors.base01.gui,
-      ctermfg = colors.base0E.cterm,
+      ctermfg = colors.base08.cterm,
       ctermbg = colors.base01.cterm,
     },
   },
