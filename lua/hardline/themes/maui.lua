@@ -28,10 +28,10 @@ return {
   mode = {
     inactive = inactive,
     normal = {
-        guifg = colors.base00.gui,
-        guibg = colors.base0D.gui,
-      ctermfg = colors.base00.cterm,
-      ctermbg = colors.base0D.cterm,
+        guifg = colors.base0B.gui,
+        guibg = colors.base01.gui,
+      ctermfg = colors.base0B.cterm,
+      ctermbg = colors.base01.cterm,
     },
     insert = {
         guifg = colors.base00.gui,
