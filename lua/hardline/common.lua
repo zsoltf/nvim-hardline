@@ -5,16 +5,16 @@ M.modes = {
   [''] = {text = 'S-BLOCK', state = 'visual'},
   [''] = {text = 'V-BLOCK', state = 'visual'},
   ['?'] = {text = '???', state = 'inactive'},
-  ['R'] = {text = 'REPLACE', state = 'replace'},
+  ['R'] = {text = 'Φ', state = 'replace'},
   ['S'] = {text = 'S-LINE', state = 'visual'},
   ['V'] = {text = 'V-LINE', state = 'visual'},
-  ['c'] = {text = 'COMMAND', state = 'command'},
-  ['i'] = {text = 'INSERT', state = 'insert'},
-  ['n'] = {text = 'NORMAL', state = 'normal'},
+  ['c'] = {text = 'Σ', state = 'command'},
+  ['i'] = {text = 'λ', state = 'insert'},
+  ['n'] = {text = 'ν', state = 'normal'},
   ['r'] = {text = 'PROMPT', state = 'replace'},
   ['s'] = {text = 'SELECT', state = 'visual'},
-  ['t'] = {text = 'TERMINAL', state = 'command'},
-  ['v'] = {text = 'VISUAL', state = 'visual'},
+  ['t'] = {text = 'Σ', state = 'command'},
+  ['v'] = {text = 'δ', state = 'visual'},
 }
 
 function M.echo(msg, hlgroup)
